@@ -9,3 +9,7 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 4/26/2026 
 -no updates today 
+
+
+4/26/2026
+-worked on the community tab and diplaying posts within the community
