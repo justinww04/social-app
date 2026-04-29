@@ -11,5 +11,11 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 -no updates today 
 
 
-4/26/2026
+4/27/2026
 -worked on the community tab and diplaying posts within the community
+
+
+4/28/2026 
+-re worked the community tab 
+
+
