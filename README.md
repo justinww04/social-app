@@ -20,6 +20,10 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 
 4/29/2026 
-- no update 
+- no update
+
+
+4/30/2026
+-still working on community tab
 
 
