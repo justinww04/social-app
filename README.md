@@ -27,3 +27,7 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 -still working on community tab
 
 
+5/1/2026
+- started working on "the wall" which is the fyp, being able to switch from looking at all posts vs posts from just friends 
+
+
