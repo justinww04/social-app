@@ -28,6 +28,10 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 
 5/1/2026
-- started working on "the wall" which is the fyp, being able to switch from looking at all posts vs posts from just friends 
+- started working on "the wall" which is the fyp, being able to switch from looking at all posts vs posts from just friends
+
+
+5/2/2026
+-working on the wall
 
 
