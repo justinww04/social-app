@@ -48,3 +48,8 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 
 -working on integrating moving objects and functions to the page
+
+
+5/6/2026
+
+-working on functions
