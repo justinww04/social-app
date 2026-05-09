@@ -58,3 +58,7 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 5/7/2026
 
 - working on integrations
+
+
+5/8/2026
+-completed integrations 
