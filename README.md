@@ -78,3 +78,6 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 5/11/2026
 -no update today 
+
+5/12/2026 
+-completed admin panel 
