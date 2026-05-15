@@ -81,3 +81,6 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 5/12/2026 
 -completed admin panel 
+
+5/13/2026
+-working on music uploading 
