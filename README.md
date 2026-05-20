@@ -95,6 +95,9 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 5/16/2026
 -worked on music uploading aspect
 
-5/17/2026 
+5/17/2026  
 -finished musjc uploading aspect
+
+5/18/2026
+-working on design / layout
 
