@@ -101,3 +101,6 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 5/18/2026
 -working on design / layout
 
+5/19/2026 
+-completed layout and design for now
+
