@@ -68,39 +68,41 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 -no updates
 
 
-5/9/2026
+5/10/2026
 - working on admin panel 
 
 
-5/10/2026
+5/11/2026
 -working on admin panel 
 
 
-5/11/2026
+5/12/2026
 -no update today 
 
-5/12/2026 
+5/13/2026 
 -completed admin panel 
 
-5/13/2026
+5/14/2026
 -working on music uploading 
 
-5/14/2026 
+5/15/2026 
 -no update 
 
-5/15/2026
+5/16/2026
 - music uploading aspect almost complete 
 
 
-5/16/2026
+5/17/2026
 -worked on music uploading aspect
 
-5/17/2026  
+5/18/2026  
 -finished musjc uploading aspect
 
-5/18/2026
+5/19/2026
 -working on design / layout
 
-5/19/2026 
+5/20/2026 
 -completed layout and design for now
 
+5/21
+-working on social functions
