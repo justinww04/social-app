@@ -112,3 +112,6 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 5/23/2026
 -almost completed social functions 
+
+5/24/2026
+-completed social functions
