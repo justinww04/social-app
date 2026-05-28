@@ -122,3 +122,7 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 
 5/26/2026
 -working on network tab
+
+5/27/2026
+
+-worked on network tab
