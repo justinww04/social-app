@@ -117,7 +117,7 @@ working on a new social platform, added friend tab, profiles, search bars, and a
 -completed social functions
 
 
-5/25/2026
+5/25/2026 
 -no update today 
 
 5/26/2026
