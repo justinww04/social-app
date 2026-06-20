@@ -1,6 +1,8 @@
 # social-
 working on a new social platform, added friend tab, profiles  , search bars, and a content fyp 4/24/2026
 
+looking over social aspects of website 
+
 
 working on optimization - still working updating- optimizing - most optizations are done, working on compliancies
  
