@@ -3,7 +3,7 @@ working on a new social platform, added friend tab, profiles  , search bars, and
 
 working on the posting feed aspects 
 
-finsihed postin feed aspects needed to help searchability 
+finsihed posting feed aspects needed to help searchability, updated design of search bar 
 
 looking over social aspects of website 
 
