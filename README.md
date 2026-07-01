@@ -1,6 +1,10 @@
 # social-
 working on a new social platform, added friend tab, profiles  , search bars, and a content fyp 4/24/2026
 
+
+no update today 
+
+
 working on the posting feed aspects 
 
 finsihed posting feed aspects needed to help searchability, updated design of search bar 
