@@ -8,6 +8,7 @@ no update today
 
 
 working on the posting feed aspects 
+updated posting feed with more options
 
 finsihed posting feed aspects needed to help searchability, updated design of search bar 
 
