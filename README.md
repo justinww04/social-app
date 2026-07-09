@@ -8,7 +8,7 @@ no update today
 
 
 working on the posting feed aspects 
-updated posting feed with more options, updated the options and worked on the functions of the options to make them work correctly
+updated posting feed with more options, updated the options and worked on the functions of the options to make them work correctly - finished 
 
 finsihed posting feed aspects needed to help searchability, updated design of search bar 
 
