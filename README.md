@@ -9,7 +9,7 @@ no update
 
 
 working on the posting feed aspects 
-updated posting feed with more options, updated the options and worked on the functions of the options to make them work correctly - finished 
+updated posting feed with more options, updated the options and worked on the functions of the options to make them work correctly - finished  added hashtags 
 
 finsihed posting feed aspects needed to help searchability, updated design of search bar 
 
