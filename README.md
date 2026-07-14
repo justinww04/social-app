@@ -40,7 +40,7 @@ working on optimization - still working updating- optimizing - most optizations 
 
 
 4/30/2026
--still working on community tab
+-still working on community tab - re worked and finished community tab
 
 
 5/1/2026
