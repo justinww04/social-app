@@ -1,6 +1,8 @@
 # social-
 working on a new social platform, added friend tab, profiles  , search bars, and a content fyp 4/24/2026
 
+re worked friends list 
+
 no update 
 
 no update today
