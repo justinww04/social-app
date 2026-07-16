@@ -16,7 +16,7 @@ updated posting feed with more options, updated the options and worked on the fu
 
 finsihed posting feed aspects needed to help searchability, updated design of search bar 
 
-looking over social aspects of website 
+looking over social aspects of website - complete
 
 
 working on optimization - still working updating- optimizing - most optizations are done, working on compliancies - finished
