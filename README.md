@@ -124,7 +124,9 @@ working on optimization - still working updating- optimizing - most optizations 
 -completed layout and design for now
 
 5/21
--working on social functions
+-working on social functions    
+
+reworked social functions 
 
 5/22/2026
 -working on social functions
