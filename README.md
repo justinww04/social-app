@@ -3,7 +3,7 @@ working on a new social platform, added friend tab, profiles  , search bars, and
 
 re worked friends list 
 
-no update 
+no update  
 
 no update 
 no update today
