@@ -1,3 +1,4 @@
+researching how to get certain safety protocols integrated 
 
 switching to umuseusapp-test repo
 
