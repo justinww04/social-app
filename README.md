@@ -1,4 +1,7 @@
-working on optimizing 
+no update today 
+
+
+workingon optimizing 
 
 
 researching how to get certain safety protocols integrated 
