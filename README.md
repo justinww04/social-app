@@ -1,3 +1,5 @@
+did optimization for social app when uploading pictures they were sizing incorrectly 
+
 updated the new repo
 
 no update today 
