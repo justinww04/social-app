@@ -1,4 +1,7 @@
-did optimization for social app when uploading pictures they were sizing incorrectly - worked on today 
+
+
+
+did optimization for social app when uploading pictures they were sizing incorrectly - worked on today - finished mobile optimization
 
 updated the new repo
 
