@@ -1,4 +1,4 @@
-
+also starting to work on a app earned currency used for in app items/promotions
 
 
 did optimization for social app when uploading pictures they were sizing incorrectly - worked on today - finished mobile optimization
