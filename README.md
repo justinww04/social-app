@@ -1,3 +1,7 @@
+
+started working on the mobile app using expo 
+
+
 also starting to work on a app earned currency used for in app items/promotions
 
 
