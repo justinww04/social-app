@@ -1,5 +1,5 @@
 
-started working on the mobile app using expo 
+started working on the mobile app using expo - worked on again today, getting basic functions for mobile app working 
 
 
 also starting to work on a app earned currency used for in app items/promotions
