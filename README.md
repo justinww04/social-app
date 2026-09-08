@@ -1,5 +1,5 @@
 
-started working on the mobile app using expo - worked on again today, getting basic functions for mobile app working- still working on basic functions - completed most basic functions going to start working on connecting the backend 
+started working on the mobile app using expo - worked on again today, getting basic functions for mobile app working- still working on basic functions - completed most basic functions going to start working on connecting the backend  
 
 
 also starting to work on a app earned currency used for in app items/promotions
