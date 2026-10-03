@@ -4,6 +4,9 @@ started working on the mobile app using expo - worked on again today, getting ba
 nothing today - working on home page
 
 
+working on error with feed 
+
+
 also starting to work on a app earned currency used for in app items/promotions
 
 
