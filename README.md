@@ -6,6 +6,8 @@ nothing today - working on home page
 
 working on error with feed 
 
+fixed error 
+
 
 also starting to work on a app earned currency used for in app items/promotions
 
