@@ -8,7 +8,7 @@ working on error with feed
 
 fixed error 
 
-starting to work on swipe features 
+starting to work on swipe features - continued working on swipe features 
 
 
 also starting to work on a app earned currency used for in app items/promotions
