@@ -4,7 +4,7 @@ started working on the mobile app using expo - worked on again today, getting ba
 nothing today - working on home page
 
 
-working on error with feed 
+working on error with feed  
 
 fixed error 
 
