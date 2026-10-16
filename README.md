@@ -21,7 +21,7 @@ updated the new repo
 no update today 
 
 
-workingon optimizing 
+working on optimizing - re working on optimizations 
 
 
 researching how to get certain safety protocols integrated 
