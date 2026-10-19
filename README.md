@@ -10,6 +10,8 @@ working on error with feed
 
 fixed error 
 
+fixed error with sizing 
+
 starting to work on swipe features - continued working on swipe features 
 
 
