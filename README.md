@@ -215,3 +215,6 @@ reworked social functions
 
 5/30/2026  
 -NO UPDATE
+
+10/25/2026
+-new re design
