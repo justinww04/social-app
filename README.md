@@ -71,6 +71,9 @@ working on developing a feature to merge music
 
 re working an in app currency for the users to use 
 
+fixing sizing that broke due to new features
+
+
 
 
 
