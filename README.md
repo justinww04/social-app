@@ -61,6 +61,14 @@ looking over social aspects of website - complete
 
 
 working on optimization - still working updating- optimizing - most optizations are done, working on compliancies - finished
+
+
+working on new security protocalls
+
+
+
+
+
  
 4/25/2026  
 -working on adding a new community tab called (bands) this is where people can connect with one another and interact in communities fo share music, pictures or videos such as things from music festivals, with their favorite artists, videos of themselves playing their instrument, performing and etc. Just majority music related topics.
