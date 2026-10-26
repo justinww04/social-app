@@ -63,7 +63,9 @@ looking over social aspects of website - complete
 working on optimization - still working updating- optimizing - most optizations are done, working on compliancies - finished
 
 
-working on new security protocalls
+working on new security protocols
+
+working on a new social aspect
 
 
 
