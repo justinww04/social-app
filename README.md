@@ -69,6 +69,8 @@ working on a new social aspect
 
 working on developing a feature to merge music 
 
+re working an in app currency for the users to use 
+
 
 
 
