@@ -223,3 +223,6 @@ reworked social functions
 10/25/2026
 -new re design
 -new functions added
+
+11/1/2026
+- feed re design 
