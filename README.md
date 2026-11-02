@@ -226,4 +226,5 @@ reworked social functions
 
 11/1/2026
 - feed re design
-- testing new functions 
+- testing new functions
+- testing security 
