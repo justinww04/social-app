@@ -8,6 +8,8 @@ nothing today - working on home page - reworked
 
 working on error with feed  
 
+re worked feed
+
 fixed error 
 
 fixed error with sizing 
